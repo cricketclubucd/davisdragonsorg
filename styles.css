@@ -7,15 +7,15 @@ body, html {
     /* Background image */
     background-image: url('./under_construction.png');
     /* Full-screen */
-    height: 100%;
+    height: 50%;
     /* Center the background image */
     background-position: center;
     /* Scale and zoom in the image */
-    background-size: cover;
+    background-size: contain;
     /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
     position: relative;
     /* Add a white text color to all elements inside the .bgimg container */
-    color: white;
+    color: black;
     /* Add a font */
     font-family: "Courier New", Courier, monospace;
     /* Set the font-size to 25 pixels */
