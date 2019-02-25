@@ -1,0 +1,31 @@
+# Site
+name: Cricket Club at UC Davis
+description: Jekyll Theme for Blogging
+meta_description: "Jekyll theme for blogging."
+logo: 'assets/images/criclogo.png'
+favicon: 'assets/images/criclogo.png'
+paginate: 12
+baseurl: 
+
+# Authors
+authors:
+  Nikhil:
+    name: Nikhil
+    display_name: Nikhil
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  # - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
