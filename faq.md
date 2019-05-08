@@ -16,11 +16,13 @@ usually subject to change.
 
 ### How often do you guys play?
 We usually play atleast once on a weekly basis during Fall and Spring quarters
-provided that we are able to ensure that the ground or the nets is available. \
+provided that we are able to ensure that the ground or the nets is available. 
+
 In the Winter quarter, however, we host games/practice sessions based on the weather.
 
 ### How should we contact you?
 Feel free to contact us on the Facebook page, which you can access through the
-**Facebook** link in the site header. \
+**Facebook** link in the site header. 
+
 We also have a [Facebook group](https://www.facebook.com/groups/CricketClubAtUCDavis)
 you could join, or send us an e-mail to **cricclubucd [at] gmail [dot] com**

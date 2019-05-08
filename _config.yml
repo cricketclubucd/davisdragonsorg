@@ -14,7 +14,7 @@ authors:
     display_name: Nikhil
 
 # Plugins
-plugins: 
+plugins_dir: 
   - jekyll-paginate
   # - jekyll-archives
     
